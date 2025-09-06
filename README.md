@@ -12,3 +12,4 @@ This repository contains my daily DSA practice solutions in C++.
 
 ### Recursion
 - [x] fibonacci number
+- [x] binary search
