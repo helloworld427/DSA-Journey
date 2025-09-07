@@ -9,6 +9,7 @@ This repository contains my daily DSA practice solutions in C++.
 
 ### Strings
 - [x] Basics
+- [x] Palindrome check
 
 ### Recursion
 - [x] fibonacci number
