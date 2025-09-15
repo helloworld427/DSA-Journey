@@ -16,3 +16,4 @@ This repository contains my daily DSA practice solutions in C++.
 - [x] binary search
 - [x] unique paths in grid
 - [x] merge sort
+- [x] quick sort
